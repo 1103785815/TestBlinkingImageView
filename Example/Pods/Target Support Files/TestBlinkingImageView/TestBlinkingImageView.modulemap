@@ -1,0 +1,6 @@
+framework module TestBlinkingImageView {
+  umbrella header "TestBlinkingImageView-umbrella.h"
+
+  export *
+  module * { export * }
+}

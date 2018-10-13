@@ -1,0 +1,16 @@
+PODS:
+  - TestBlinkingImageView (0.1.0)
+
+DEPENDENCIES:
+  - TestBlinkingImageView (from `../`)
+
+EXTERNAL SOURCES:
+  TestBlinkingImageView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestBlinkingImageView: c5e102bab3ee79362841b03e72deb7d045fbf438
+
+PODFILE CHECKSUM: d6ca3d3b783cb381fdaf15bb4c7adb0cc6cae7c8
+
+COCOAPODS: 1.5.2
